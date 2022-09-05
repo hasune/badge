@@ -1,7 +1,1 @@
 # badge
-
-branch exercise  
-
-
-
-exercise!!!!!
